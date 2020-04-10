@@ -1,0 +1,9 @@
+KBRANCH_generic486  = "v5.4/standard/base"
+
+KMACHINE_generic486 ?= "common-pc"
+
+SRCREV_machine_generic486 ?= "f4d7dbafb103e4f782323017c239c548871c1567"
+
+COMPATIBLE_MACHINE_generic486 = "generic486"
+
+LINUX_VERSION_generic486 = "5.4.20"
